@@ -43,8 +43,8 @@ Please adhere to this project's `code of conduct`.
 
 
 
-## Authors
-
-- [@Kaushik Pal](https://github.com/ikaushikpal/)
-- [@Amit Kumar Mondal](https://github.com/Amit-Kumar-Mondal-Tech)
-- [@Supriyo Dam](https://github.com/SupriyoDam)
+## Contributors
+Further contribution is much appreciated<br/>
+<a href="https://github.com/ikaushikpal/Twitter-Sentiment-Analysis/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ikaushikpal/Twitter-Sentiment-Analysis" />
+</a>
